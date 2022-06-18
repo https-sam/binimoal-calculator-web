@@ -12,6 +12,6 @@ Hate calculating binomials? This website calculates binomial expressions using t
 ![enter image description here](https://i.ibb.co/jyByGJW/Screen-Shot-2022-02-02-at-2-31-29-PM.png)
 
 
-*If you would like to run it on your local machine, download the files and use the start command.
+
 
     npm start
