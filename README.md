@@ -2,7 +2,7 @@
 
 Hate calculating binomials? This website calculates binomial expressions using the [Binomial Theorem](https://en.wikipedia.org/wiki/Binomial_theorem). This was made with React. 
 
-Feel free to go to the [website](https://dazzling-neumann-fcf711.netlify.app/calc) and try it out! 
+[Demo](https://dazzling-neumann-fcf711.netlify.app/calc)
 
 # Screenshots
 **Main page**
